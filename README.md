@@ -83,7 +83,7 @@ Currently employed at cakewalk
 
 [![Cakewalk Contributions](https://img.shields.io/badge/Cakewalk-Contributions-red)](https://github.com/raghavcakewalk)
 
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" height={100} width={100} />
 <br>  
 <!--
 
@@ -92,11 +92,8 @@ Currently employed at cakewalk
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavcakewalk&show_icons=true&theme=radical)
 -->
 
-
-
-<br />
-
 ## 📫 Let's Connect
+
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/raghav-sobti-a73693298)
 
 <br />
