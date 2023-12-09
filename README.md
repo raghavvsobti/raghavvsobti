@@ -9,23 +9,22 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I love bui
 
 ## 🔧 Technologies, Stacks & Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-brightgreen)
-![TypeScript](https://img.shields.io/badge/TypeScript-Lang%20of%20Choice-brightgreen)
-![Node.js](https://img.shields.io/badge/Node.js-LTS%2B-brightgreen)
-![Express.js](https://img.shields.io/badge/Express.js-RESTful%20APIs-brightgreen)
-![React.js](https://img.shields.io/badge/React.js-SPA%20Development-brightgreen)
-![Next.js](https://img.shields.io/badge/Next.js-SSR%20Applications-brightgreen)
-![NestJS](https://img.shields.io/badge/NestJS-Backend%20Framework-brightgreen)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20Database-brightgreen)
-![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL%20Database-brightgreen)
-![Prisma](https://img.shields.io/badge/Prisma-Database%20Toolkit-brightgreen)
-![Mongoose](https://img.shields.io/badge/Mongoose-ODM%20for%20MongoDB-brightgreen)
-![RemixJS](https://img.shields.io/badge/RemixJS-Modern%20React%20Framework-brightgreen)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Styling%20Framework-brightgreen)
-![HTML5](https://img.shields.io/badge/HTML5-Markup-brightgreen)
-![CSS3](https://img.shields.io/badge/CSS3-Styles-brightgreen)
-![Git](https://img.shields.io/badge/Git-Version%20Control-brightgreen)
-
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-Lang%20of%20Choice-blue)
+![Node.js](https://img.shields.io/badge/Node.js-LTS%2B-blue)
+![Express.js](https://img.shields.io/badge/Express.js-RESTful%20APIs-blue)
+![React.js](https://img.shields.io/badge/React.js-SPA%20Development-blue)
+![Next.js](https://img.shields.io/badge/Next.js-SSR%20Applications-blue)
+![NestJS](https://img.shields.io/badge/NestJS-Backend%20Framework-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20Database-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL%20Database-blue)
+![Prisma](https://img.shields.io/badge/Prisma-Database%20Toolkit-blue)
+![Mongoose](https://img.shields.io/badge/Mongoose-ODM%20for%20MongoDB-blue)
+![RemixJS](https://img.shields.io/badge/RemixJS-Modern%20React%20Framework-blue)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Styling%20Framework-blue)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-blue)
+![CSS3](https://img.shields.io/badge/CSS3-Styles-blue)
+![Git](https://img.shields.io/badge/Git-Version%20Control-blue)
 <br />
 
 <div align="center">
