@@ -1,7 +1,61 @@
-### Hi there 👋
-
 [![Company Contributions](https://img.shields.io/badge/Company-Contributions-brightgreen)](https://github.com/raghavcakewalk)
 
+# Hello, I'm Raghav! 👋
+
+I'm a passionate Full Stack Developer specializing in the MERN stack. I love building scalable and performant applications. Here's a glimpse of my skills and contributions:
+
+## 🔧 Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-brightgreen)
+![TypeScript](https://img.shields.io/badge/TypeScript-Lang%20of%20Choice-brightgreen)
+![Node.js](https://img.shields.io/badge/Node.js-LTS%2B-brightgreen)
+![Express.js](https://img.shields.io/badge/Express.js-RESTful%20APIs-brightgreen)
+![React.js](https://img.shields.io/badge/React.js-SPA%20Development-brightgreen)
+![Next.js](https://img.shields.io/badge/Next.js-SSR%20Applications-brightgreen)
+![NestJS](https://img.shields.io/badge/NestJS-Backend%20Framework-brightgreen)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational%20Database-brightgreen)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL%20Database-brightgreen)
+![Prisma](https://img.shields.io/badge/Prisma-Database%20Toolkit-brightgreen)
+![Mongoose](https://img.shields.io/badge/Mongoose-ODM%20for%20MongoDB-brightgreen)
+![RemixJS](https://img.shields.io/badge/RemixJS-Modern%20React%20Framework-brightgreen)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-Styling%20Framework-brightgreen)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-brightgreen)
+![CSS3](https://img.shields.io/badge/CSS3-Styles-brightgreen)
+![Git](https://img.shields.io/badge/Git-Version%20Control-brightgreen)
+
+
+
+<!--
+## 🚀 Projects
+
+### [Project 1 Title](link-to-project1)
+- Brief description of the project.
+- Technologies used: React.js, Node.js, MongoDB.
+
+### [Project 2 Title](link-to-project2)
+- Brief description of the project.
+- Technologies used: React.js, Express.js, MongoDB.
+
+## 🌱 Open Source Contributions
+
+- [Contribution 1](link-to-contribution1)
+- [Contribution 2](link-to-contribution2)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavcakewalk&show_icons=true&theme=radical)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [Portfolio Website](https://www.your-portfolio.com/)
+- [Twitter](https://twitter.com/your-twitter)
+
+-->
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything related to web development!
+
+Happy coding! ✨
 
 
 <!--
