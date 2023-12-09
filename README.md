@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Company Contributions](https://img.shields.io/badge/Company-Contributions-brightgreen)](link-to-company-profile)
+[![Company Contributions](https://img.shields.io/badge/Company-Contributions-brightgreen)]([link-to-company-profile](https://github.com/raghavcakewalk))
 
 
 <!--
