@@ -23,7 +23,24 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I love bui
 ![CSS3](https://img.shields.io/badge/CSS3-Styles-brightgreen)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-brightgreen)
 
-
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/express.png"/> -->
+  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/000000/next.png"/>
+  <img src="https://img.icons8.com/color/48/000000/nestjs.png"/>
+  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/prisma.png"/> -->
+  <img src="https://img.icons8.com/color/48/000000/mongoose.png"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/remix-ide.png"/> -->
+<!--   <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> -->
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+</div>
 
 <!--
 ## 🚀 Projects
