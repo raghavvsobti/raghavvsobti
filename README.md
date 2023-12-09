@@ -27,16 +27,14 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I love bui
 ![Git](https://img.shields.io/badge/Git-Version%20Control-blue)
 <br />
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /></div>
-
 <br />
 
 <div align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/javascript.png"/> -->
+<!--   <img src="https://img.icons8.com/color/48/000000/typescript.png"/> -->
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <!--   <img src="https://img.icons8.com/color/48/000000/express.png"/> -->
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/react-native.png"/> -->
   <img src="https://img.icons8.com/color/48/000000/next.png"/>
   <img src="https://img.icons8.com/color/48/000000/nestjs.png"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
@@ -49,6 +47,22 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I love bui
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
 </div>
+
+<br />
+
+<div align="center" style="display: flex; align-items: center; justify-content: space-around;">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+</div>
+
+<br />
 
 <!--
 ## 🚀 Projects
