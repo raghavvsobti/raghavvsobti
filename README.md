@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Company Contributions](https://img.shields.io/badge/Company-Contributions-brightgreen)](link-to-company-profile)
+
+
 <!--
 **raghavvsobti/raghavvsobti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
