@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&random=false&width=435&lines=A+Freelancer;A+Software+Developer;A+Designer;A+Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
-I'm a passionate Full Stack Developer specializing in the MERN stack. I love building scalable and performant applications. Here's a glimpse of my skills and contributions:
+I've been masquerading as a Full Stack Developer for a while now, juggling the mystical arts of MongoDB, Express.js, React.js, and Node.js — you know, the MERN stack. I like to think of myself as a coding wizard, turning coffee into scalable and performant applications.
 
 ## 🔧 Technologies, Stacks & Tools
 
