@@ -107,8 +107,13 @@ I've been masquerading as a Full Stack Developer for a while now, juggling the m
 Currently employed at Cakewalk
 
 [![Cakewalk Contributions](https://img.shields.io/badge/Cakewalk-Contributions-red)](https://github.com/raghavcakewalk)
+<br>  
 
-<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" height={10} width={10} />
+![image](https://github.com/raghavvsobti/raghavvsobti/assets/20655901/7c8a3df3-8f65-4ac9-bca3-c115866e381a)
+
+<br />
+
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
 <br>  
 
 <!--
