@@ -67,9 +67,8 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I love bui
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavcakewalk&show_icons=true&theme=radical)
 
-## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+
 - [Portfolio Website](https://www.your-portfolio.com/)
 - [Twitter](https://twitter.com/your-twitter)
 
@@ -84,9 +83,8 @@ Currently employed at cakewalk
 
 [![Cakewalk Contributions](https://img.shields.io/badge/Cakewalk-Contributions-red)](https://github.com/raghavcakewalk)
 
-<img width="924" alt="image" src="https://github.com/raghavvsobti/raghavvsobti/assets/20655901/5506c50d-f986-4c58-906f-e6682d5a22e1">
-
-
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" />
+<br>  
 <!--
 
 ![Your GitHub Contributions](https://github.com/users/raghavcakewalk/contributions)
@@ -98,12 +96,17 @@ Currently employed at cakewalk
 
 <br />
 
+## 📫 Let's Connect
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/raghav-sobti-a73693298)
+
+<br />
+
+
 <div align="center">
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything related to web development!
 <div />
 Happy coding! ✨
 </div>
-
 
 
 <!--
