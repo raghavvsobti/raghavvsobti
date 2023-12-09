@@ -79,7 +79,7 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I love bui
 
 ## My Workplace Contributions
 
-Currently employed at cakewalk
+Currently employed at Cakewalk
 
 [![Cakewalk Contributions](https://img.shields.io/badge/Cakewalk-Contributions-red)](https://github.com/raghavcakewalk)
 
