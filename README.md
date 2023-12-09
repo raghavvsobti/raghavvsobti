@@ -4,7 +4,7 @@
 
 I'm a passionate Full Stack Developer specializing in the MERN stack. I love building scalable and performant applications. Here's a glimpse of my skills and contributions:
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies, Stacks & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-brightgreen)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Lang%20of%20Choice-brightgreen)
@@ -69,6 +69,10 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I love bui
 - [Twitter](https://twitter.com/your-twitter)
 
 -->
+
+
+
+
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything related to web development!
 
