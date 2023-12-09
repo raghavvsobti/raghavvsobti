@@ -111,14 +111,18 @@ Currently employed at Cakewalk
 <img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/productive.gif" height={10} width={10} />
 <br>  
 
+<!--
+
 ## 📫 Let's Connect
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/raghav-sobti-a73693298)
-
 <br />
+-->
 
 <div align="center">
-Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything related to web development!
+Feel free to explore my repositories drop a 🌟 
+<div />
+Reach out if you'd like to collaborate or discuss anything related to web development!
 <div />
 Happy coding! ✨
 </div>
