@@ -76,6 +76,10 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I love bui
 
 <br />
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<br />
+
 ## My Workplace Contributions
 
 Currently employed at Cakewalk
@@ -90,7 +94,6 @@ Currently employed at Cakewalk
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/raghav-sobti-a73693298)
 
 <br />
-
 
 <div align="center">
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything related to web development!
