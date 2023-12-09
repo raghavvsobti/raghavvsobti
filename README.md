@@ -77,9 +77,9 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I love bui
 <br />
 
 <p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes" disabled>
+<!--   <a href="https://github.com/piyushsuthar/github-readme-quotes" disabled> -->
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark?theme=algolia" alt="Readme Quotes"/>
-  </a>
+<!--   </a> -->
 </p>
 
 <br />
