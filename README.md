@@ -125,7 +125,7 @@ Currently employed at Cakewalk
 -->
 
 <div align="center">
-Feel free to explore my repositories drop a 🌟 
+Feel free to explore my repositories & drop a 🌟 
 <div />
 Reach out if you'd like to collaborate or discuss anything related to web development!
 <div />
