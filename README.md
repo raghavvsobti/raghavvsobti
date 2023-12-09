@@ -1,6 +1,9 @@
-[![Company Contributions](https://img.shields.io/badge/Company-Contributions-brightgreen)](https://github.com/raghavcakewalk)
 
 # Hello, I'm Raghav! 👋
+
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=200&random=false&width=435&lines=A+Freelancer;A+Software+Developer;A+Designer;A+Full+Stack+Developer" alt="Typing SVG" /></a>
+</div>
 
 I'm a passionate Full Stack Developer specializing in the MERN stack. I love building scalable and performant applications. Here's a glimpse of my skills and contributions:
 
@@ -22,6 +25,8 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I love bui
 ![HTML5](https://img.shields.io/badge/HTML5-Markup-brightgreen)
 ![CSS3](https://img.shields.io/badge/CSS3-Styles-brightgreen)
 ![Git](https://img.shields.io/badge/Git-Version%20Control-brightgreen)
+
+<br />
 
 <div align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
@@ -71,12 +76,34 @@ I'm a passionate Full Stack Developer specializing in the MERN stack. I love bui
 -->
 
 
+<br />
+
+## My Workplace Contributions
+
+Currently employed at cakewalk
+
+[![Cakewalk Contributions](https://img.shields.io/badge/Cakewalk-Contributions-red)](https://github.com/raghavcakewalk)
+
+<img width="924" alt="image" src="https://github.com/raghavvsobti/raghavvsobti/assets/20655901/5506c50d-f986-4c58-906f-e6682d5a22e1">
+
+
+<!--
+
+![Your GitHub Contributions](https://github.com/users/raghavcakewalk/contributions)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghavcakewalk&show_icons=true&theme=radical)
+-->
 
 
 
+<br />
+
+<div align="center">
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything related to web development!
-
+<div />
 Happy coding! ✨
+</div>
+
 
 
 <!--
