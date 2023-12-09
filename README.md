@@ -35,12 +35,12 @@ I've been masquerading as a Full Stack Developer for a while now, juggling the m
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <!--   <img src="https://img.icons8.com/color/48/000000/express.png"/> -->
 <!--   <img src="https://img.icons8.com/color/48/000000/react-native.png"/> -->
-  <img src="https://img.icons8.com/color/48/000000/next.png"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/next.png"/> -->
   <img src="https://img.icons8.com/color/48/000000/nestjs.png"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 <!--   <img src="https://img.icons8.com/color/48/000000/prisma.png"/> -->
-  <img src="https://img.icons8.com/color/48/000000/mongoose.png"/>
+<!--   <img src="https://img.icons8.com/color/48/000000/mongoose.png"/> -->
 <!--   <img src="https://img.icons8.com/color/48/000000/remix-ide.png"/> -->
 <!--   <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/> -->
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
